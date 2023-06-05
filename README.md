@@ -16,7 +16,7 @@ noti_detail = '1'
 ```
 
 # TODO
-我不太会 Python， 希望有会 Python 大佬能 pull request 一个 增加推送加密功能 ~ 感谢~
+希望有会 Python 大佬能 pull request 一个 增加推送加密功能 ~ 感谢~
 
 # WeChatPush
 微信消息推送到消息接收或FarPush或WirePusher    
